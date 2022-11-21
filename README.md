@@ -1,4 +1,4 @@
-# VAAL in PyTorch
+# Reconstruction Guided VAAL in PyTorch
 
 **Update**: For any questions, please email me at samarth.sinha@mail.utoronto.ca, since I often don't get GitHub emails. 
 
